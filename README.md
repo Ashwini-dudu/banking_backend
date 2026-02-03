@@ -58,7 +58,8 @@ Screenshots of the UI can be added here for demonstration.
 ### Steps
 1. Clone the repository:
    ```bash
-  git clone https://github.com/Ashwini-dudu/banking_backend.git
+      git clone https://github.com/Ashwini-dudu/banking_backend.git
+   
 =======
 # 🏦 Python Banking Backend System
 
@@ -121,6 +122,7 @@ The application uses **Tkinter GUI** to provide:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ashwini-dudu/banking_backend.git
+
 
 
 
