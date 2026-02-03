@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import tkinter as tk
 from tkinter import messagebox
 
@@ -85,6 +85,7 @@ tk.Button(root, text="Withdraw", command=withdraw_money).pack(pady=5)
 tk.Button(root, text="Check Balance", command=show_balance).pack(pady=5)
 
 root.mainloop()
+
 =======
 import tkinter as tk
 from tkinter import messagebox
@@ -172,4 +173,4 @@ tk.Button(root, text="Withdraw", command=withdraw_money).pack(pady=5)
 tk.Button(root, text="Check Balance", command=show_balance).pack(pady=5)
 
 root.mainloop()
->>>>>>> 3ced9d2 (Initializing backend project)
+
