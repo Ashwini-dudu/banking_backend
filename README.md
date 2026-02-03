@@ -107,8 +107,9 @@ The application uses **Tkinter GUI** to provide:
 - Buttons for deposit, withdraw, and balance check
 - Popup messages for success and error handling
 
-Screenshots of the UI can be added here for demonstration.
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 ---
 
 ## ▶️ How to Run the Project
